@@ -109,3 +109,4 @@ The encoder will generate the `test.bin` file containing the payload with the ke
 .. _`USB Rubber Ducky`: https://hak5.org/products/usb-rubber-ducky-deluxe
 .. _`USB Rubber Ducky wiki`: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
 .. _`Yosys`: https://github.com/YosysHQ/yosys
+
